@@ -1,0 +1,1 @@
+1 dan %d gacha bo'lgan sonlar
